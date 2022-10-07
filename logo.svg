@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="44px" viewBox="0 0 41 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hype4logo</title>
+    <defs>
+        <path d="M28.0953945,1.18994782 C29.2979081,2.31699748 29.7699892,4.02141887 29.3186277,5.60653347 L21.8554531,31.8168537 L5.07832529,31.8168537 C2.27363394,31.8168537 0,29.5432197 0,26.7385284 C0,25.448566 0.490870922,24.2069494 1.37300988,23.2657664 L21.8744122,1.39148963 C23.5366496,-0.382030843 26.3218741,-0.472255755 28.0953945,1.18994782 Z" id="path-1"></path>
+        <linearGradient x1="-21.3483146%" y1="-34.84125%" x2="-21.3483146%" y2="1031.82542%" id="linearGradient-3">
+            <stop stop-color="#F3AEFF" offset="0%"></stop>
+            <stop stop-color="#2266DB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="92.94547%" y1="-45.7263782%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#C5AAFF" offset="0%"></stop>
+            <stop stop-color="#2C4AF3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M28.0953945,1.18994782 C29.2979081,2.31699748 29.7699892,4.02141887 29.3186277,5.60653347 L21.8554531,31.8168537 L5.07832529,31.8168537 C2.27363394,31.8168537 0,29.5432197 0,26.7385284 C0,25.448566 0.490870922,24.2069494 1.37300988,23.2657664 L21.8744122,1.39148963 C23.5366496,-0.382030843 26.3218741,-0.472255755 28.0953945,1.18994782 Z" id="path-5"></path>
+        <linearGradient x1="80.3196886%" y1="-30.3855299%" x2="28.3156126%" y2="117.92713%" id="linearGradient-7">
+            <stop stop-color="#F0A5FF" offset="0%"></stop>
+            <stop stop-color="#5A88FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M33.7502452,17.6479537 C36.9288705,17.6479537 39.5056805,20.2247298 39.5056805,23.403389 C39.5056805,24.7242614 39.0513397,26.0049474 38.2189006,27.0305321 L26.4957559,41.4734246 C25.1995303,43.0703548 22.8541904,43.3141144 21.2572941,42.0179227 C20.0993344,41.0780262 19.6138126,39.5379733 20.0232949,38.1038881 L25.8645201,17.6479537 L33.7502452,17.6479537 Z" id="path-8"></path>
+    </defs>
+    <g id="Assety" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="h4_22---assets" transform="translate(-138.000000, -51.000000)">
+            <g id="hype4logo" transform="translate(138.822353, 51.474900)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polygon id="Fill-1" fill="url(#linearGradient-3)" mask="url(#mask-2)" points="-0.208854591 31.9683909 29.9225421 31.9683909 29.9225421 -0.532890959 -0.208854591 -0.532890959"></polygon>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Clip-5" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                <mask id="mask-9" fill="white">
+                    <use xlink:href="#path-8"></use>
+                </mask>
+                <use id="Clip-15" fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+            </g>
+        </g>
+    </g>
+</svg>
